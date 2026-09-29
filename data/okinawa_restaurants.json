@@ -1,0 +1,42 @@
+[
+  {
+    "id":"jacks",
+    "name":"Jack's Steak House",
+    "area":"Naha",
+    "category":"Steak",
+    "price":"¥2500",
+    "rating":5,
+    "mustEat":"New York Steak",
+    "notes":"Amerikanischer Klassiker seit 1953."
+  },
+  {
+    "id":"kingtacos",
+    "name":"King Tacos",
+    "area":"Kin",
+    "category":"Taco Rice",
+    "price":"¥900",
+    "rating":5,
+    "mustEat":"Original Taco Rice",
+    "notes":"Der Geburtsort von Taco Rice."
+  },
+  {
+    "id":"blueseal",
+    "name":"Blue Seal Ice Cream",
+    "area":"American Village",
+    "category":"Dessert",
+    "price":"¥450",
+    "rating":4,
+    "mustEat":"Okinawan Salt Cookie",
+    "notes":"Pflichtstopp in Okinawa."
+  },
+  {
+    "id":"hamayashokudo",
+    "name":"Hamaya Soba",
+    "area":"Chatan",
+    "category":"Soba",
+    "price":"¥850",
+    "rating":4,
+    "mustEat":"Okinawa Soba",
+    "notes":"Sehr beliebt bei Locals."
+  }
+]
