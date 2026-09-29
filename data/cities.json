@@ -1,0 +1,44 @@
+[
+  {
+    "id":"osaka",
+    "name":"Osaka",
+    "country":"Japan",
+    "days":"20.10–28.10",
+    "color":"#D9485F"
+  },
+  {
+    "id":"hiroshima",
+    "name":"Hiroshima",
+    "country":"Japan",
+    "days":"22.10–24.10",
+    "color":"#8B5CF6"
+  },
+  {
+    "id":"tokyo",
+    "name":"Tokyo",
+    "country":"Japan",
+    "days":"28.10–02.11",
+    "color":"#2563EB"
+  },
+  {
+    "id":"okinawa",
+    "name":"Okinawa",
+    "country":"Japan",
+    "days":"02.11–07.11",
+    "color":"#0EA5E9"
+  },
+  {
+    "id":"taipei",
+    "name":"Taipei",
+    "country":"Taiwan",
+    "days":"07.11–13.11",
+    "color":"#10B981"
+  },
+  {
+    "id":"seoul",
+    "name":"Seoul",
+    "country":"South Korea",
+    "days":"13.11–20.11",
+    "color":"#F59E0B"
+  }
+]
