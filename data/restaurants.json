@@ -1,0 +1,90 @@
+[
+  {
+    "id":"wanaka",
+    "city":"Osaka",
+    "name":"Takoyaki Wanaka",
+    "area":"Namba",
+    "category":"Street Food",
+    "price":"¥700-1200",
+    "rating":5,
+    "mustEat":"Classic Takoyaki",
+    "notes":"Der wahrscheinlich beste Takoyaki-Laden in Osaka."
+  },
+  {
+    "id":"gyukatsu",
+    "city":"Osaka",
+    "name":"Gyukatsu Motomura",
+    "area":"Namba",
+    "category":"Beef",
+    "price":"¥1800",
+    "rating":5,
+    "mustEat":"Medium Rare Gyukatsu",
+    "notes":"Jeder Stein grillt dein Fleisch selbst."
+  },
+  {
+    "id":"ajinoya",
+    "city":"Osaka",
+    "name":"Ajinoya",
+    "area":"Dotonbori",
+    "category":"Okonomiyaki",
+    "price":"¥1200-1800",
+    "rating":5,
+    "mustEat":"Osaka Okonomiyaki",
+    "notes":"Legendärer Familienbetrieb."
+  },
+  {
+    "id":"hokkyokusei",
+    "city":"Osaka",
+    "name":"Hokkyokusei",
+    "area":"Shinsaibashi",
+    "category":"Omurice",
+    "price":"¥1500",
+    "rating":4,
+    "mustEat":"Original Omurice",
+    "notes":"Geburtsort des Omurice."
+  },
+  {
+    "id":"kushikatsu",
+    "city":"Osaka",
+    "name":"Yaekatsu",
+    "area":"Shinsekai",
+    "category":"Kushikatsu",
+    "price":"¥1000",
+    "rating":5,
+    "mustEat":"Mixed Kushikatsu",
+    "notes":"Doppelt dippen verboten 😉"
+  },
+  {
+    "id":"okonomimura",
+    "city":"Hiroshima",
+    "name":"Okonomimura",
+    "area":"Naka Ward",
+    "category":"Okonomiyaki",
+    "price":"¥1000-1500",
+    "rating":5,
+    "mustEat":"Hiroshima Style",
+    "notes":"Mehrere Okonomiyaki-Restaurants in einem Gebäude."
+  },
+  {
+    "id":"nagataya",
+    "city":"Hiroshima",
+    "name":"Nagataya",
+    "area":"Peace Park",
+    "category":"Okonomiyaki",
+    "price":"¥1200",
+    "rating":5,
+    "mustEat":"Mochi Cheese Okonomiyaki",
+    "notes":"Direkt beim Peace Memorial."
+  },
+  {
+    "id":"momiji",
+    "city":"Hiroshima",
+    "name":"Momijido",
+    "area":"Miyajima",
+    "category":"Dessert",
+    "price":"¥250",
+    "rating":4,
+    "mustEat":"Fried Momiji Manju",
+    "notes":"Typische Süßigkeit von Miyajima."
+  }
+]
