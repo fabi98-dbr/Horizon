@@ -1,0 +1,54 @@
+[
+  {
+    "day":1,
+    "date":"2026-10-20",
+    "city":"Osaka",
+    "title":"Anreise Japan",
+    "hotel":"APA Hotel & Resort Osaka Namba Ekimae Tower",
+    "highlights":[
+      "MU220 Frankfurt",
+      "Shanghai Umstieg",
+      "Ankunft KIX",
+      "Dotonbori Abendspaziergang"
+    ]
+  },
+  {
+    "day":2,
+    "date":"2026-10-21",
+    "city":"Osaka",
+    "title":"Namba entdecken",
+    "hotel":"APA Hotel & Resort Osaka Namba Ekimae Tower",
+    "highlights":[
+      "Kuromon Market",
+      "Hozenji Yokocho",
+      "Dotonbori",
+      "Ura Namba"
+    ]
+  },
+  {
+    "day":3,
+    "date":"2026-10-22",
+    "city":"Hiroshima",
+    "title":"Peace Memorial Park",
+    "hotel":"Capsule Hotel CUBE Hiroshima",
+    "highlights":[
+      "Shinkansen",
+      "Atomic Dome",
+      "Peace Museum",
+      "Okonomiyaki"
+    ]
+  },
+  {
+    "day":4,
+    "date":"2026-10-23",
+    "city":"Hiroshima",
+    "title":"Miyajima",
+    "hotel":"Capsule Hotel CUBE Hiroshima",
+    "highlights":[
+      "Itsukushima Shrine",
+      "Torii",
+      "Daisho-in",
+      "Sonnenuntergang"
+    ]
+  }
+]
