@@ -1,0 +1,34 @@
+[
+  {
+    "id":"dotonbori",
+    "city":"Osaka",
+    "name":"Dotonbori",
+    "type":"District",
+    "time":"2-3h",
+    "history":"Seit über 400 Jahren das Unterhaltungsviertel Osakas."
+  },
+  {
+    "id":"osakacastle",
+    "city":"Osaka",
+    "name":"Osaka Castle",
+    "type":"Castle",
+    "time":"2h",
+    "history":"Von Toyotomi Hideyoshi im 16. Jahrhundert erbaut."
+  },
+  {
+    "id":"peacepark",
+    "city":"Hiroshima",
+    "name":"Peace Memorial Park",
+    "type":"Memorial",
+    "time":"3h",
+    "history":"Erinnert an den Atombombenabwurf vom 6. August 1945."
+  },
+  {
+    "id":"miyajima",
+    "city":"Hiroshima",
+    "name":"Itsukushima Shrine",
+    "type":"UNESCO",
+    "time":"4h",
+    "history":"Der berühmte schwimmende Torii ist eines der bekanntesten Wahrzeichen Japans."
+  }
+]
