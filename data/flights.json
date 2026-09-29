@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "airline": "China Eastern",
+    "flight": "MU220",
+    "date": "2026-10-20",
+    "from": "Frankfurt (FRA)",
+    "to": "Shanghai Pudong (PVG)",
+    "departure": "14:30",
+    "arrival": "07:10+1",
+    "terminal": "T1",
+    "status": "Gebucht"
+  },
+  {
+    "id": 2,
+    "airline": "China Eastern",
+    "flight": "MU225",
+    "date": "2026-10-21",
+    "from": "Shanghai Pudong (PVG)",
+    "to": "Osaka Kansai (KIX)",
+    "departure": "09:05",
+    "arrival": "12:25",
+    "terminal": "T1",
+    "status": "Gebucht"
+  },
+  {
+    "id": 3,
+    "airline": "Peach Aviation",
+    "flight": "MM507",
+    "date": "2026-11-02",
+    "from": "Tokyo Narita (NRT)",
+    "to": "Okinawa Naha (OKA)",
+    "departure": "14:00",
+    "arrival": "17:00",
+    "terminal": "T1",
+    "status": "Gebucht"
+  },
+  {
+    "id": 4,
+    "airline": "Peach Aviation",
+    "flight": "MM925",
+    "date": "2026-11-07",
+    "from": "Okinawa (OKA)",
+    "to": "Taipei Taoyuan (TPE)",
+    "departure": "13:35",
+    "arrival": "14:10",
+    "terminal": "International",
+    "status": "Gebucht"
+  },
+  {
+    "id": 5,
+    "airline": "Asiana Airlines",
+    "flight": "OZ714",
+    "date": "2026-11-13",
+    "from": "Taipei (TPE)",
+    "to": "Seoul Incheon (ICN)",
+    "departure": "17:05",
+    "arrival": "20:30",
+    "terminal": "T1",
+    "status": "Gebucht"
+  },
+  {
+    "id": 6,
+    "airline": "Korean Air",
+    "flight": "KE945",
+    "date": "2026-11-20",
+    "from": "Seoul Incheon (ICN)",
+    "to": "Frankfurt (FRA)",
+    "departure": "11:25",
+    "arrival": "17:55",
+    "terminal": "T2",
+    "status": "Gebucht"
+  }
+]
