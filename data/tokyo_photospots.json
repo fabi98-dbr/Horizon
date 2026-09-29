@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Chureito Pagoda",
+    "bestTime":"Sunrise",
+    "camera":"24-70mm",
+    "tip":"Rechts neben der Treppe entsteht das ikonische Fuji-Foto."
+  },
+  {
+    "name":"Akihabara Main Street",
+    "bestTime":"19:00",
+    "camera":"35mm",
+    "tip":"Neonlichter nach Sonnenuntergang."
+  },
+  {
+    "name":"Senso-ji Gate",
+    "bestTime":"07:00",
+    "camera":"24mm",
+    "tip":"Fast keine Touristen."
+  },
+  {
+    "name":"Golden Gai",
+    "bestTime":"21:00",
+    "camera":"50mm",
+    "tip":"Warme Laternen statt Blitz benutzen."
+  }
+]
