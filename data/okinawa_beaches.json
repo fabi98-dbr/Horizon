@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Sunset Beach",
+    "area":"Chatan",
+    "bestFor":"Sunset",
+    "water":"★★★★★"
+  },
+  {
+    "name":"Nirai Beach",
+    "area":"Yomitan",
+    "bestFor":"Swimming",
+    "water":"★★★★★"
+  },
+  {
+    "name":"Araha Beach",
+    "area":"Chatan",
+    "bestFor":"Relax",
+    "water":"★★★★☆"
+  },
+  {
+    "name":"Emerald Beach",
+    "area":"Motobu",
+    "bestFor":"Crystal Water",
+    "water":"★★★★★"
+  }
+]
