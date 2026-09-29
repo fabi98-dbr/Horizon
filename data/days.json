@@ -50,5 +50,57 @@
       "Daisho-in",
       "Sonnenuntergang"
     ]
-  }
+  },
+{
+  "day":9,
+  "date":"2026-10-28",
+  "city":"Tokyo",
+  "title":"Akihabara & Check-in",
+  "hotel":"GLANSIT Akihabara",
+  "highlights":[
+    "Shinkansen",
+    "Akihabara",
+    "Arcades",
+    "Yodobashi Camera"
+  ]
+},
+{
+  "day":10,
+  "date":"2026-10-29",
+  "city":"Tokyo",
+  "title":"Asakusa & Ueno",
+  "hotel":"GLANSIT Akihabara",
+  "highlights":[
+    "Sensō-ji",
+    "Nakamise Street",
+    "Ueno Park",
+    "Ameyoko"
+  ]
+},
+{
+  "day":11,
+  "date":"2026-10-30",
+  "city":"Tokyo",
+  "title":"Fuji Expedition",
+  "hotel":"GLANSIT Akihabara",
+  "highlights":[
+    "Kawaguchiko",
+    "Chureito",
+    "Lake Fuji",
+    "Sunset"
+  ]
+},
+{
+  "day":12,
+  "date":"2026-10-31",
+  "city":"Tokyo",
+  "title":"Halloween",
+  "hotel":"GLANSIT Akihabara",
+  "highlights":[
+    "Shibuya",
+    "Golden Gai",
+    "Omoide Yokocho",
+    "Late Night Bars"
+  ]
+}
 ]
