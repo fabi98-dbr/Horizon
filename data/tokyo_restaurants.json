@@ -1,0 +1,62 @@
+[
+  {
+    "id":"ichiran",
+    "name":"Ichiran Ramen Ueno",
+    "area":"Ueno",
+    "category":"Ramen",
+    "price":"¥1200",
+    "rating":5,
+    "mustEat":"Classic Tonkotsu",
+    "notes":"Perfekt nach einem langen Sightseeing-Tag."
+  },
+  {
+    "id":"gyukatsu_tokyo",
+    "name":"Gyukatsu Motomura Akihabara",
+    "area":"Akihabara",
+    "category":"Beef",
+    "price":"¥1900",
+    "rating":5,
+    "mustEat":"Beef Cutlet Set",
+    "notes":"Dein Pflichtstopp in Akihabara."
+  },
+  {
+    "id":"suzukien",
+    "name":"Suzukien",
+    "area":"Asakusa",
+    "category":"Dessert",
+    "price":"¥650",
+    "rating":5,
+    "mustEat":"Level 7 Matcha Eis",
+    "notes":"Das intensivste Matcha-Eis Tokios."
+  },
+  {
+    "id":"afuri",
+    "name":"AFURI Harajuku",
+    "area":"Harajuku",
+    "category":"Ramen",
+    "price":"¥1400",
+    "rating":4,
+    "mustEat":"Yuzu Shio Ramen",
+    "notes":"Leichte Alternative zu Ichiran."
+  },
+  {
+    "id":"gyopao",
+    "name":"Gyoza no Fukuho",
+    "area":"Golden Gai",
+    "category":"Gyoza",
+    "price":"¥900",
+    "rating":4,
+    "mustEat":"Pan Fried Gyoza",
+    "notes":"Kleiner Local Laden."
+  },
+  {
+    "id":"onigiri",
+    "name":"Onigiri Bongo",
+    "area":"Otsuka",
+    "category":"Japanese",
+    "price":"¥500",
+    "rating":5,
+    "mustEat":"Salmon Mayo",
+    "notes":"Berühmteste Onigiri Japans."
+  }
+]
