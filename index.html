@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>HORIZON • Asia 2026</title>
+
+  <meta name="theme-color" content="#B91C1C">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="HORIZON">
+
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+  <!-- Splash Screen -->
+  <div id="splash" class="splash">
+    <h1>HORIZON</h1>
+    <p>Asia Journey 2026</p>
+  </div>
+
+  <!-- App -->
+  <div id="app" class="hidden">
+
+    <!-- Top Bar -->
+    <header class="topbar glass">
+
+      <div>
+        <span class="eyebrow">PROJECT HORIZON</span>
+        <h1>Asia 2026</h1>
+      </div>
+
+      <div class="profile">
+        🌏
+      </div>
+
+    </header>
+
+    <!-- Main Content -->
+    <main id="content"></main>
+
+    <!-- Bottom Navigation -->
+    <nav class="tabbar glass">
+
+      <button class="tab active" data-page="home">
+        <span>🏠</span>
+        <small>Home</small>
+      </button>
+
+      <button class="tab" data-page="plan">
+        <span>🗓</span>
+        <small>Plan</small>
+      </button>
+
+      <button class="tab" data-page="explore">
+        <span>🗺</span>
+        <small>Explore</small>
+      </button>
+
+      <button class="tab" data-page="wallet">
+        <span>✈️</span>
+        <small>Wallet</small>
+      </button>
+
+      <button class="tab" data-page="more">
+        <span>⚙️</span>
+        <small>Mehr</small>
+      </button>
+
+    </nav>
+
+  </div>
+
+  <script src="app.js"></script>
+
+</body>
+</html>
