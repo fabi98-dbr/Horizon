@@ -1,0 +1,10 @@
+{
+  "name": "HORIZON Asia 2026",
+  "short_name": "HORIZON",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0B1020",
+  "theme_color": "#B91C1C",
+  "orientation": "portrait",
+  "icons": []
+}
