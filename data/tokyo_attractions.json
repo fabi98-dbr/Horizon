@@ -1,0 +1,37 @@
+[
+  {
+    "id":"akihabara",
+    "name":"Akihabara",
+    "type":"District",
+    "time":"4h",
+    "history":"Seit den 1950ern Japans Elektronik- und Otaku-Hauptstadt."
+  },
+  {
+    "id":"sensoji",
+    "name":"Sensō-ji",
+    "type":"Temple",
+    "time":"2h",
+    "history":"Tokios ältester buddhistischer Tempel von 645."
+  },
+  {
+    "id":"goldengai",
+    "name":"Golden Gai",
+    "type":"Nightlife",
+    "time":"3h",
+    "history":"Über 200 winzige Bars in sechs engen Gassen."
+  },
+  {
+    "id":"omoide",
+    "name":"Omoide Yokocho",
+    "type":"Food Alley",
+    "time":"2h",
+    "history":"Nachkriegs-Gassen mit Yakitori und Izakayas."
+  },
+  {
+    "id":"chureito",
+    "name":"Chureito Pagoda",
+    "type":"Viewpoint",
+    "time":"3h",
+    "history":"Einer der berühmtesten Fuji-Ausblicke Japans."
+  }
+]
